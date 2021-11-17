@@ -34,4 +34,4 @@ create or replace  view INTERVIEW_DB.PLAYGROUND_SAIDIVYA_DARAGANI.DAILY_STATS  a
     FROM CASES_STATISTICS
   )
  
-**\*I am not able to connect github to dbt as there is error in setting up repository in github. Due to this problem, i am not able to do visualization in google-visual-studio. As instructor said i have written in snowflake warehouse and pasted it here by creating new repository*\**
+***I am not able to connect github to dbt as there is error like danger zone. Due to this problem, i am not able to do visualization in google-visual-studio. As instructor said i have written in snowflake warehouse and pasted it here by creating new repository***
