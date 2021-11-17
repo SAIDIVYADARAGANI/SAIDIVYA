@@ -33,4 +33,4 @@ create or replace  view INTERVIEW_DB.PLAYGROUND_SAIDIVYA_DARAGANI.DAILY_STATS  a
     SELECT DATE,New_cases,New_Deaths,New_Active_cases,New_Cases_per_Million,New_Deaths_per_Million,Growth_Factor_of_New_Deaths
     FROM CASES_STATISTICS
   )
-
+ 
